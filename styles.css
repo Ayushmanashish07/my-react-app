@@ -1,0 +1,19 @@
+#container{
+    background-color: rgb(0, 255, 166);
+    border: 1.7px solid black;
+}
+
+
+/* <!-- parcel does hmr (hot module replacement) to reload the page automatically 
+ and it takes the help of file watching algorithm written in C++ to check for changes and comands
+  a reload.
+  parcel is a bundler and doing works like bundling minifying and clearance of code and HMR 
+  it manages dev and production build with the help of algorithm and image optimization and 
+  it also does caching while devlopment to decrease build time and compresses the files compatable 
+  with older version of browser (polyfills) and gives us chances of testing on https server 
+  and can generates port no. to diffrent projects and uses consistent hashing algorithm to 
+  bundle the things and also it does all with zero configuration. -->
+  <!-- parcel is a zero configuration bundler, so you don't need to install anything.
+transitive dependencies are installed automatically and you can use it to check for changes and
+ perform rebuilds automatically. 
+ tree shaking means removing unwanted code. --> */
